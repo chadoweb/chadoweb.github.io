@@ -6,4 +6,4 @@ layout: default
 
 # This is a cool page
 
-with some cool text
+with some cool text. Thanks to our super admin
